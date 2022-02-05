@@ -1,0 +1,27 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scr/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugiwarajeff/Mini-CRUD-express.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mugiwarajeff/Mini-CRUD-express.js/issues"
+  },
+  "homepage": "https://github.com/mugiwarajeff/Mini-CRUD-express.js#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
